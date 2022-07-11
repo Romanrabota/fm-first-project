@@ -1,3 +1,5 @@
 text
 
 another example text 
+
+new text
