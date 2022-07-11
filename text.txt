@@ -1,5 +1,5 @@
 text
 
 another example text 
-
+new text content
 new text
